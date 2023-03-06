@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/benposts/first_file.html",
-    "href": "posts/benposts/first_file.html",
-    "title": "My Post",
-    "section": "",
-    "text": "2+2\n\n4\n\n\n\n3+4\n\n7"
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -18,7 +11,7 @@
     "href": "posts/first_file.html",
     "title": "First File",
     "section": "",
-    "text": "2+2\n\n4\n\n\n\n3+4\n\n7\n\n\n\nplt.plot([1,2,3,4],[5,8,6,7],'ko')"
+    "text": "2+2\n\n4\n\n\n\n3+4\n\n7\n\n\n\nplt.plot([1,2,3,4],[5,8,6,7],'ko')\n\n\n\n\n\n\nshell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory\nchdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory\nCollecting plotly_express\n  Using cached plotly_express-0.4.1-py2.py3-none-any.whl (2.9 kB)\nRequirement already satisfied: numpy>=1.11 in /opt/conda/lib/python3.10/site-packages (from plotly_express) (1.24.1)\nRequirement already satisfied: patsy>=0.5 in /opt/conda/lib/python3.10/site-packages (from plotly_express) (0.5.3)\nRequirement already satisfied: statsmodels>=0.9.0 in /opt/conda/lib/python3.10/site-packages (from plotly_express) (0.13.5)\nRequirement already satisfied: pandas>=0.20.0 in /opt/conda/lib/python3.10/site-packages (from plotly_express) (1.5.2)\nRequirement already satisfied: plotly>=4.1.0 in /opt/conda/lib/python3.10/site-packages (from plotly_express) (5.12.0)\nRequirement already satisfied: scipy>=0.18 in /opt/conda/lib/python3.10/site-packages (from plotly_express) (1.10.0)\nRequirement already satisfied: python-dateutil>=2.8.1 in /opt/conda/lib/python3.10/site-packages (from pandas>=0.20.0->plotly_express) (2.8.2)\nRequirement already satisfied: pytz>=2020.1 in /opt/conda/lib/python3.10/site-packages (from pandas>=0.20.0->plotly_express) (2022.7)\nRequirement already satisfied: six in /opt/conda/lib/python3.10/site-packages (from patsy>=0.5->plotly_express) (1.16.0)\nRequirement already satisfied: tenacity>=6.2.0 in /opt/conda/lib/python3.10/site-packages (from plotly>=4.1.0->plotly_express) (8.1.0)\nRequirement already satisfied: packaging>=21.3 in /opt/conda/lib/python3.10/site-packages (from statsmodels>=0.9.0->plotly_express) (23.0)\nInstalling collected packages: plotly_express\nSuccessfully installed plotly_express-0.4.1\n\n\n\ngp = px.data.gapminder()\n\npx.scatter(gp, \n           x=\"gdpPercap\", \n           y=\"lifeExp\",\n           hover_name='country',color='country',size='pop',\n           log_x=True,\n           animation_frame=\"year\",animation_group='country',\n           range_x=[100,100000], \n           range_y=[25,90],\n           width=800, \n           height=600,\n           size_max=60,template='simple_white'\n          )"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -39,6 +32,6 @@
     "href": "index.html",
     "title": "myblog",
     "section": "",
-    "text": "First File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nMar 6, 2023\n\n\nBen Winjum\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 22, 2021\n\n\nFizz McPhee\n\n\n\n\n\n\nNo matching items"
+    "text": "First File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nMar 7, 2023\n\n\nBen Winjum\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]
