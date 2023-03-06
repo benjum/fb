@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://benjum.github.io/fb/posts/benposts/first_file.html</loc>
-    <lastmod>2023-03-06T08:36:33.946Z</lastmod>
+    <lastmod>2023-03-06T08:40:33.409Z</lastmod>
   </url>
   <url>
     <loc>https://benjum.github.io/fb/posts/welcome/index.html</loc>
-    <lastmod>2023-03-06T08:36:34.383Z</lastmod>
+    <lastmod>2023-03-06T08:40:33.841Z</lastmod>
+  </url>
+  <url>
+    <loc>https://benjum.github.io/fb/posts/first_file.html</loc>
+    <lastmod>2023-03-06T08:40:34.291Z</lastmod>
   </url>
   <url>
     <loc>https://benjum.github.io/fb/posts/post-with-code/index.html</loc>
-    <lastmod>2023-03-06T08:36:34.819Z</lastmod>
+    <lastmod>2023-03-06T08:40:34.702Z</lastmod>
   </url>
   <url>
     <loc>https://benjum.github.io/fb/about.html</loc>
-    <lastmod>2023-03-06T08:36:35.230Z</lastmod>
+    <lastmod>2023-03-06T08:40:35.112Z</lastmod>
   </url>
   <url>
     <loc>https://benjum.github.io/fb/index.html</loc>
-    <lastmod>2023-03-06T08:36:35.742Z</lastmod>
+    <lastmod>2023-03-06T08:40:35.628Z</lastmod>
   </url>
 </urlset>
