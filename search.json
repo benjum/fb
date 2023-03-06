@@ -18,7 +18,7 @@
     "href": "posts/first_file.html",
     "title": "First File",
     "section": "",
-    "text": "2+2\n\n4\n\n\n\n3+4\n\n7\n\n\n\nimport pandas as pd\n\n\nimport matplotlib.pyplot as plt\n\n\nplt.plot([1,2,3,4],[5,8,6,7],'ko')"
+    "text": "2+2\n\n4\n\n\n\n3+4\n\n7\n\n\n\nplt.plot([1,2,3,4],[5,8,6,7],'ko')"
   },
   {
     "objectID": "posts/post-with-code/index.html",
